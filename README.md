@@ -16,6 +16,9 @@ The goal is not full automation, but to understand:
 
 ## Architecture
 
+<img width="640" height="1254" alt="image" src="https://github.com/user-attachments/assets/97e895e4-640e-4bc4-afb0-25b58beb005a" />
+
+
 Pipeline flow (simplified):
 
 Kaggle Dataset
@@ -107,8 +110,8 @@ Trade-offs observed:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
-cd <repo-name>
+git clone https://github.com/g0kimangelica/fuel_ai_project.git
+cd fuel_ai_project
 ```
 
 ### 2. Set up environment
